@@ -1,0 +1,22 @@
+fileFormatVersion: 2
+guid: 57bad2fc0409607458a09f8b23505cb1
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontNames:
+  - Summer
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 90428cbf92a6287469c14795f82a7041, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
